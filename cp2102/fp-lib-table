@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "aaa_this_project")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+)
