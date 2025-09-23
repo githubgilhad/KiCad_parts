@@ -47,8 +47,8 @@
 		)
 		(symbol "G_CP2102_1_1"
 			(rectangle
-				(start -8.636 9.652)
-				(end 7.62 -9.906)
+				(start -8.89 10.16)
+				(end 7.62 -10.16)
 				(stroke
 					(width 0)
 					(type solid)
@@ -89,7 +89,7 @@
 				)
 			)
 			(pin input line
-				(at -11.176 4.064 0)
+				(at -11.43 3.81 0)
 				(length 2.54)
 				(name "RST"
 					(effects
@@ -107,7 +107,7 @@
 				)
 			)
 			(pin input line
-				(at -11.176 1.524 0)
+				(at -11.43 1.27 0)
 				(length 2.54)
 				(name "R1"
 					(effects
@@ -125,7 +125,7 @@
 				)
 			)
 			(pin input line
-				(at -11.176 -1.016 0)
+				(at -11.43 -1.27 0)
 				(length 2.54)
 				(name "~{SUS}"
 					(effects
@@ -143,7 +143,7 @@
 				)
 			)
 			(pin input line
-				(at -11.176 -3.556 0)
+				(at -11.43 -3.81 0)
 				(length 2.54)
 				(name "SUS"
 					(effects
@@ -161,7 +161,7 @@
 				)
 			)
 			(pin input line
-				(at -6.858 -12.446 90)
+				(at -6.35 -12.7 90)
 				(length 2.54)
 				(name "3V3"
 					(effects
@@ -179,7 +179,7 @@
 				)
 			)
 			(pin input line
-				(at -4.318 -12.446 90)
+				(at -3.81 -12.7 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -197,7 +197,7 @@
 				)
 			)
 			(pin input line
-				(at -1.778 -12.446 90)
+				(at -1.27 -12.7 90)
 				(length 2.54)
 				(name "+5V"
 					(effects
@@ -215,7 +215,7 @@
 				)
 			)
 			(pin input line
-				(at 0.762 -12.446 90)
+				(at 1.27 -12.7 90)
 				(length 2.54)
 				(name "TXD"
 					(effects
@@ -233,7 +233,7 @@
 				)
 			)
 			(pin input line
-				(at 3.302 -12.446 90)
+				(at 3.81 -12.7 90)
 				(length 2.54)
 				(name "RXD"
 					(effects
@@ -251,7 +251,7 @@
 				)
 			)
 			(pin input line
-				(at 5.842 -12.446 90)
+				(at 6.35 -12.7 90)
 				(length 2.54)
 				(name "DTR"
 					(effects
